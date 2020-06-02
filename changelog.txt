@@ -1,4 +1,70 @@
-Vaniliatime ToDoList  ( Kaszuba Krzysztof 11910)
+# Changelog
+ToDoList  ( Kaszuba Krzysztof 11910)
 
-14.04.2020
+
+## [0.0.1] 14.04.2020
+### Created
 Utowrzenie srodowiska do pracy 
+
+## [0.0.1] 21.04.2020
+### Added
+- Import Biblioteki Ikon
+- Utworzeniu Przycisku Dodania Listy 
+
+## [0.0.2] 18.04.2020
+### Added
+- Utowrzenie Ikonki "X" do zamykania modala
+
+### Changed
+- Usprawnienia Przycisku Dodania Listy
+
+
+## [0.0.3] 21.04.2020
+### Added
+- Utworzenie Tymczasowych List
+
+
+## [0.0.4] 24.04.2020
+### Added
+- Utowrzenie Tasków w Listach 
+
+## [0.0.5] 28.04.2020
+### Added
+-  Dodanie zliczania tasków
+-  Dodanie Ikonki "X" do zamykania modala
+
+## [0.0.5]  05.05.2020
+### Added
+- Zmiany kosmetyczne tasków 
+
+## [0.0.6] 14.05.2020
+### Added
+- Dodanie Ikonki i Splash screena
+
+## [0.0.7] 17.05.2020
+### Added
+- Utowrzenie Home Screena
+
+## [0.0.8] 19.05.2020
+### Added
+
+- Utworzenie galeri zdjec 
+
+## [0.0.9] 23.05.2020 
+### Added
+- Dodanie scrolla do galleri
+
+### Changed
+- Zmiana sposobu wyswietlania zdjec
+
+## [0.1.0] 26.05.2020
+### Added
+- Dodanie zdjec 
+
+### Changed
+- Poprawa styli
+
+
+## [0.1.1] -  30.05.2020
+### Added
+- Navigation Bar
