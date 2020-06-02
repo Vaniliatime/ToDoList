@@ -10,7 +10,7 @@ Kaszuba Krzysztof 11910
 # Usage
 
 1.Download and install expo app on your phone</br>
-- Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pl</br>
+&nbsp;- Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pl</br>
 - iOS: https://itunes.apple.com/us/app/expo-client/id982107779?mt=8</br>
 - after download app you must login to your profile in app</br>
 2.Start project:</br>
